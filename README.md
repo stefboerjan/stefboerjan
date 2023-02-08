@@ -4,21 +4,23 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ You can find my portfolio at [stefboerjan.github.io](https://stefboerjan.github.io/)
 -->
 
-<h1 align="center">Hi there 👋, I'm Stef Boerjan</h1>
+<h1 align="center">Hi there 👋, I'm Stef</h1>
 <h3 align="center">A passionate full stack developer from Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefboerjan&label=Profile%20views&color=0e75b6&style=flat" alt="stefboerjan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://stefboerjan.github.io/](https://stefboerjan.github.io/)
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on my first open source projects
+- ⚡ You can find my portfolio at [stefboerjan.github.io](https://stefboerjan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
